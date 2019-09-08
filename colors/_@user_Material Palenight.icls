@@ -4,7 +4,7 @@
     <property name="created">2019-02-19T01:01:37</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-09-07T22:45:32</property>
+    <property name="modified">2019-09-08T21:06:45</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -32617,7 +32617,8 @@
     </option>
     <option name="PY.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="ea3290" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
