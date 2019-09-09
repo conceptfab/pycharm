@@ -4,7 +4,7 @@
     <property name="created">2019-02-19T01:01:37</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-09-09T17:39:58</property>
+    <property name="modified">2019-09-09T17:52:26</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -23,7 +23,7 @@
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="11" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
@@ -32555,6 +32555,11 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="c3d3de" />
+      </value>
+    </option>
     <option name="PY.BRACES">
       <value>
         <option name="FOREGROUND" value="89ddf7" />
@@ -32589,7 +32594,6 @@
     <option name="PY.DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="676e95" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.DOC_COMMENT_TAG">
@@ -32603,9 +32607,14 @@
         <option name="FOREGROUND" value="89ddf7" />
       </value>
     </option>
+    <option name="PY.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="ffc66d" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -32617,19 +32626,18 @@
     </option>
     <option name="PY.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ea3290" />
+        <option name="FOREGROUND" value="a77afe" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="ff5364" />
       </value>
     </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="676e95" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="949ed6" />
       </value>
     </option>
     <option name="PY.NUMBER">
@@ -32654,7 +32662,7 @@
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="76d9e6" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -33472,7 +33480,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="959dcb" />
-        <option name="BACKGROUND" value="292d3e" />
+        <option name="BACKGROUND" value="1a1d28" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
