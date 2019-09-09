@@ -4,7 +4,7 @@
     <property name="created">2019-02-19T01:01:37</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-09-07T22:45:32</property>
+    <property name="modified">2019-09-09T18:21:05</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -23,7 +23,7 @@
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="11" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
@@ -147,11 +147,21 @@
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="BASH.FUNCTION_DEF_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
     <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="BASH.VAR_DEF">
+      <value>
+        <option name="FOREGROUND" value="ececec" />
+      </value>
+    </option>
     <option name="BLADE_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -519,7 +529,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="676e95" />
+        <option name="FOREGROUND" value="949ed6" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -32555,6 +32565,11 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="c3d3de" />
+      </value>
+    </option>
     <option name="PY.BRACES">
       <value>
         <option name="FOREGROUND" value="89ddf7" />
@@ -32567,12 +32582,13 @@
     </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="3f9bbc" />
       </value>
     </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -32589,7 +32605,6 @@
     <option name="PY.DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="676e95" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.DOC_COMMENT_TAG">
@@ -32603,9 +32618,14 @@
         <option name="FOREGROUND" value="89ddf7" />
       </value>
     </option>
+    <option name="PY.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="1ddb0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -32617,18 +32637,18 @@
     </option>
     <option name="PY.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="a77afe" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="ff5364" />
       </value>
     </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="676e95" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="676495" />
       </value>
     </option>
     <option name="PY.NUMBER">
@@ -32643,7 +32663,7 @@
     </option>
     <option name="PY.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="ff5364" />
       </value>
     </option>
     <option name="PY.PARENTHS">
@@ -32653,7 +32673,7 @@
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="76d9e6" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -33470,8 +33490,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="959dcb" />
-        <option name="BACKGROUND" value="292d3e" />
+        <option name="FOREGROUND" value="bbc6ff" />
+        <option name="BACKGROUND" value="1a1d28" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
