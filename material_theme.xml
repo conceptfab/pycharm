@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
+    <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="39b7f91a:16d4fb2a446:-8000" />
     <option name="version" value="4.6.0" />
   </component>
