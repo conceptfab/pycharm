@@ -10,6 +10,7 @@
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
@@ -21,6 +22,6 @@
     <option name="tabsHeight" value="18" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="39b7f91a:16d4fb2a446:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="4.10.0" />
   </component>
 </application>
