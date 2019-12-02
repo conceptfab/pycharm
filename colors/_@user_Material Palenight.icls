@@ -4,25 +4,26 @@
     <property name="created">2019-10-09T20:02:36</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-12-02T01:48:20</property>
+    <property name="modified">2019-12-02T21:52:12</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Dank Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="10" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Dank Mono" />
-    <option name="EDITOR_FONT_SIZE" value="10" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+    <option name="EDITOR_FONT_SIZE" value="9" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="10" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
@@ -515,7 +516,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c792ea" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -1065,15 +1066,7 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
-      <value />
-    </option>
-    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
