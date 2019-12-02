@@ -10,18 +10,15 @@
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="treeFontSize" value="9" />
     <option name="tabFontSize" value="10" />
-    <option name="highlightThickness" value="4" />
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="10" />
     <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="18" />
-    <option name="accentColor" value="ab47bc" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="39b7f91a:16d4fb2a446:-8000" />
     <option name="version" value="4.6.0" />
