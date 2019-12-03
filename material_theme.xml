@@ -1,9 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentMode" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -18,6 +16,7 @@
     <option name="tabFontSizeEnabled" value="true" />
     <option name="treeFontSize" value="8" />
     <option name="tabFontSize" value="10" />
+    <option name="highlightThickness" value="3" />
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="10" />
     <option name="settingsSelectedTab" value="4" />
