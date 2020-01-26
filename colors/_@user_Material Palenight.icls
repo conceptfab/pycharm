@@ -4,12 +4,12 @@
     <property name="created">2019-10-09T20:02:36</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-01-01T13:53:30</property>
+    <property name="modified">2020-01-27T00:53:16</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="11" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
