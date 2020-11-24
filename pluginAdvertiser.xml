@@ -1032,6 +1032,11 @@
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="MicroPythonConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="MicroPython" pluginName="MicroPython" pluginId="intellij-micropython" />
+                    </value>
+                  </entry>
                   <entry key="PythonConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
@@ -1049,7 +1054,7 @@
                   </entry>
                   <entry key="docs">
                     <value>
-                      <FeaturePluginData displayName="Python docs" pluginName="Python Community Edition" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Python docs" pluginName="PythonCore" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="tests">
@@ -1067,6 +1072,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="MicroPython">
+                    <value>
+                      <FeaturePluginData displayName="MicroPython" pluginName="MicroPython" pluginId="intellij-micropython" />
+                    </value>
+                  </entry>
                   <entry key="buildout-python">
                     <value>
                       <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" />
